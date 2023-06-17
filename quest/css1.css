@@ -7,8 +7,58 @@
     background: rgb(40, 9, 179);
     border-style: dashed;
     border-width: 5px;
+    border-color: rgb(194, 2, 219);
+    font-size: 20px;
+    font-family: "Cooper Black";
+    color: aqua;
+    background-color: rgb(255, 149, 228);
+    padding: 0.1rem;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+
+#bt1:hover {
+    background-color: rgb(255, 0, 140);
+    color: white;
+    cursor: pointer;
+    border: none;
+}
+
+#bt2 {
+    width: 200px;
+    height: 80px;
+    position: fixed;
+    left: 30px;
+    bottom: 20px;
+    background: rgb(40, 9, 179);
+    border-style: dashed;
+    border-width: 5px;
     border-color: rgb(255, 0, 140);
     font-size: 20px;
     font-family: "Cooper Black";
     color: aqua;
+    cursor: pointer;
+}
+
+#bt2:hover {
+    background-color: rgb(255, 0, 140);
+    color: white;
+    cursor: pointer;
+    border: none;
+}
+
+.text-ciano {
+    color: #00dada;
+    font-family: 'Cooper Black', cursive;
+    -webkit-text-stroke-width: 2.0px;
+    -webkit-text-stroke-color: #000;
+    font-size: 60px;
+}
+
+#t1 {
+    color: #d80000;
+    font-family: 'Arial Black', cursive;
+    -webkit-text-stroke-width: 2.0px;
+    -webkit-text-stroke-color: #000;
+    font-size: 50px;
 }
