@@ -1,2 +1,2 @@
-# lenda-sao-joao-maria-clevelandia
+# São João Maria
 A lenda de São João Maria em Clevelândia
