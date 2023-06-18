@@ -1,3 +1,7 @@
+body {
+    background-color: #e591ff;
+}
+
 #bt1 {
     width: 200px;
     height: 80px;
@@ -61,4 +65,17 @@
     -webkit-text-stroke-width: 2.0px;
     -webkit-text-stroke-color: #000;
     font-size: 50px;
+}
+
+#img {
+    max-width: 200px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+}
+
+.p1 {
+    font-family: "Arial", sans-serif;
+    font-size: 18px;
+    word-spacing: 5px;
 }
