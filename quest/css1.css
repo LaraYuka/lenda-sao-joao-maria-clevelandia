@@ -1,5 +1,5 @@
 body {
-    background-color: #e591ff;
+    background-color: #f1c4ff;
 }
 
 #bt1 {
@@ -68,14 +68,25 @@ body {
 }
 
 #img {
-    max-width: 200px;
-    max-height: 150px;
+    max-width: 300px;
+    max-height: 250px;
     width: auto;
     height: auto;
 }
 
 .p1 {
-    font-family: "Arial", sans-serif;
-    font-size: 18px;
+    font-size: 20px;
     word-spacing: 5px;
+    font-family: 'Akaya Telivigala', cursive;
+    color: white;
+    padding: 1rem;
+    text-decoration: none;
+}
+
+.h3-1 {
+    color: #e40000;
+    font-family: 'Bodoni MT Black', cursive;
+    -webkit-text-stroke-width: 1.8px;
+    -webkit-text-stroke-color: #000;
+    font-size: 60px;
 }
